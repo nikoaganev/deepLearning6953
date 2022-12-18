@@ -1,0 +1,7 @@
+window_size,epochs,batch_size,validation_split,train_test_split,data_set_size,features,learning_rate,total_directional_accuracy,directional_accuracy_of_small_moves,directional_accuracy_of_large_moves
+60,10,100,0.1,0.8,2000,False,0.001,0.5012531328320802,0.43,0.46
+60,10,100,0.1,0.8,2000,False,0.005,0.5112781954887218,0.5,0.46
+60,10,100,0.1,0.8,2000,False,0.01,0.5112781954887218,0.51,0.44
+5,10,200,0.1,0.9,1900,False,0.05,0.5555555555555556,0.6595744680851063,0.5106382978723404
+60,10,100,0.1,0.8,2000,False,0.1,0.5087719298245614,0.5,0.44
+
